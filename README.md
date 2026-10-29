@@ -59,7 +59,3 @@
   <br><br>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh6a3dvOWt0aGNicDZlbnd6b2dvb2J3Z3JqZ3o2dTR6M21idWQxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="Developer animation">
 </div>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh6a3dvOWt0aGNicDZlbnd6b2dvb2J3Z3JqZ3o2dTR6M21idWQxdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="250" />
-</div>
-
-
